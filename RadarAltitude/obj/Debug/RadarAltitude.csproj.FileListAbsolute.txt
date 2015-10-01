@@ -1,0 +1,6 @@
+E:\DennyTX\Documents\Visual Studio 2013\Projects\RadarAltitude\RadarAltitude\bin\Debug\RadarAltitude.dll
+E:\DennyTX\Documents\Visual Studio 2013\Projects\RadarAltitude\RadarAltitude\bin\Debug\RadarAltitude.pdb
+E:\DennyTX\Documents\Visual Studio 2013\Projects\RadarAltitude\RadarAltitude\obj\Debug\RadarAltitude.dll
+E:\DennyTX\Documents\Visual Studio 2013\Projects\RadarAltitude\RadarAltitude\obj\Debug\RadarAltitude.pdb
+C:\KSP_104\GameData\OLDD\LandingRadar\RadarAltitude.dll
+C:\KSP_104\GameData\OLDD\LandingRadar\RadarAltitude.pdb
